@@ -1,16 +1,23 @@
-# pokedex_flutter
+# Pokedex Flutter App
 
-A new Flutter project.
+This project is a Pokedex test app developed in Flutter that allows users to browse a list of Pokémon and view details about each one. The app uses the Pokémon API (PokeAPI - https://pokeapi.co/docs/v2) to obtain real-time information about Pokémon, including their name, number, height, weight and types (etc).
 
-## Getting Started
+## Used technology
 
-This project is a starting point for a Flutter application.
+- Flutter: An open source mobile application development framework.
+- Bloc: A state management library for Flutter.
+- PokeAPI: The official Pokémon API used to obtain real-time Pokémon data.
 
-A few resources to get you started if this is your first Flutter project:
+## Facility
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repository.
+2. Open the project in Flutter.
+3. Run the app on your emulator or device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+![Home Page](doc/1.png)
+
+![Detail Page](doc/2.png)
+
+![Home Page with Search](doc/3.png)
